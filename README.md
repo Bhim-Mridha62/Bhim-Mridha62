@@ -51,7 +51,7 @@ A full-stack blog application with **Next.js** and **MongoDB**.
 
 
 <p align="center">
-<img height="200" width="auto" src="https://streak-stats.demolab.com?user=Bhim-Mridha62&theme=dark&hide_border=true" alt="GitHub Streak" />
+<!-- <img height="200" width="auto" src="https://streak-stats.demolab.com?user=Bhim-Mridha62&theme=dark&hide_border=true" alt="GitHub Streak" /> -->
 <img height="200" width="auto"   src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bhim-Mridha62&show_icons=true&theme=gruvbox" alt="GitHub Streak"/>
 <img  height="200" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhim-Mridha62&theme=gruvbox&layout=compact" alt="GitHub Streak"/>
 </p>
