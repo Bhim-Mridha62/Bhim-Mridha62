@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Bhim Mridha
 
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=React+Developer;Next.js+Developer;MERN+stack+Developer;Frontend+Developer;Backend+Developer;Full+stack+Developer" alt="Typing SVG" /></a></p>
+
 🚀 Passionate Software Developer | 🌐 Building Scalable Web Apps | 💻 Open-Source Enthusiast
 
 ---
@@ -44,6 +46,15 @@ A responsive, interactive portfolio website to showcase my work. Built using **R
 A full-stack blog application with **Next.js** and **MongoDB**.
 
 ---
+### 🔥 My Stats:
+
+
+
+<p align="center">
+<img height="200" width="auto" src="https://streak-stats.demolab.com?user=Bhim-Mridha62&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img height="200" width="auto"   src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bhim-Mridha62&show_icons=true&theme=gruvbox" alt="GitHub Streak"/>
+<img  height="200" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhim-Mridha62&theme=gruvbox&layout=compact" alt="GitHub Streak"/>
+</p>
 
 ## 📫 Let's Connect
 - **Email**: bhimmridha62@gmail.com
