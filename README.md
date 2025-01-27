@@ -35,6 +35,8 @@
 ![npm](https://img.shields.io/badge/-npm-CC3534?style=for-the-badge&logo=npm&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-F7B500?style=for-the-badge&logo=chart.js&logoColor=white)
 ![TradingView](https://img.shields.io/badge/-TradingView-1D4D5C?style=for-the-badge&logo=tradingview&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Google API](https://img.shields.io/badge/-Google%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
