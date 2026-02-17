@@ -19,6 +19,8 @@
 ![React Redux](https://img.shields.io/badge/-React_Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
@@ -38,16 +40,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Google API](https://img.shields.io/badge/-Google%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
----
-
-## 📝 Projects
-### [Project 1: Portfolio Website](https://github.com/yourusername/portfolio)
-A responsive, interactive portfolio website to showcase my work. Built using **React** and **TailwindCSS**.
-
-### [Project 2: Blog Platform](https://github.com/yourusername/blog-platform)
-A full-stack blog application with **Next.js** and **MongoDB**.
-
----
 ### 🔥 My Stats:
 
 
